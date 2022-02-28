@@ -6,4 +6,13 @@
 广发_限购城市名单  
 ![广发_限购城市名单](./media/广发_限购城市名单.jpg)
 
+## 库存
+标题：从库存角度看房地产的政策趋向与投资机会
+来源：https://mp.weixin.qq.com/s/FQAiE4Ppm7sqUDvZvzwCsA
+
+
+
+
+
+
 

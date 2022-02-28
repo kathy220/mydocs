@@ -40,10 +40,19 @@
 
 
 ## 每次启动
-1. CMD - 任意一个prompt
-2. cd /d d:\My docsify
-3. doscify serve docs
-4. chrome打开docs（http://localhost:3000/）
+1. 传统方式
+   1. CMD - 任意一个prompt
+   2. cd /d d:\My docsify
+   3. doscify serve docs
+   4. chrome打开docs（http://localhost:3000/）
+2. 简化方式
+   1. 写一个windows批处理文件
+   2. 详见docsify_run
+   3. 快捷方式到桌面，自定义图标
+   4. 只需要双击桌面图标，即可以批量完成一系列操作
+3. github同步（ipad等终端查看）
+   1. 在PC端正常更新知识库
+   2. 打开docs文件夹 -> 空白处右键 -> 点击git bash here -> git add ./ -> git commit -m "mydocs update" -> git push
 
 ## 基础设置
 1. 多页文档、导航栏、封面等（官方文档：https://docsify.js.org/#/zh-cn/）

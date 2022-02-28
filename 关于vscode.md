@@ -18,7 +18,6 @@ python3.8对应的环境地址是：D:/Anaconda/envs/py38/python.exe
     搜索python path
     设置Python: Default Interpreter Path
 
-
-
 这样就不需要修改powershell安全策略了，更安全（见上一条）
 来源：https://blog.csdn.net/gwzz1228/article/details/105449843
+
