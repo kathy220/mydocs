@@ -52,14 +52,20 @@
    4. 只需要双击桌面图标，即可以批量完成一系列操作
 3. github同步（ipad等终端查看）
    1. 在PC端正常更新知识库
-   2. 打开docs文件夹 -> 空白处右键 -> 点击git bash here -> git add ./ -> git commit -m "mydocs update" -> git push
+   2. 切换为外网vpn（可选，国内可能git push不上去）
+   3. 同步到github
+      1. 打开docs文件夹
+      2. 空白处右键
+      3. 点击git bash here
+      4. git add ./
+      5. git commit -m "mydocs update"
+      6. git push -u origin master
 
 ## 基础设置
 1. 多页文档、导航栏、封面等（官方文档：https://docsify.js.org/#/zh-cn/）
 2. 加载搜索框、侧边栏的默认折叠层数（https://www.cnblogs.com/baby123/p/14361402.html）
 3. stylesheet、index备注、copy code、pagination等（https://www.jianshu.com/p/94a07580a31f）
 4. 任务列表、图片缩放（官方文档助手：https://docsify.js.org/#/zh-cn/helpers）
-5. 
 
 ## markdown技巧
 ### 字体
